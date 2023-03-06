@@ -1,1 +1,1 @@
-# CodeClause_FakeNewsDetection
+# CodeClause_Fake_News_Detection
